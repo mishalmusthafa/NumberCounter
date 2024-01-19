@@ -78,6 +78,6 @@ main {
 /* media query */
 @media (max-width:768px) {
   .button-container {
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
 }
